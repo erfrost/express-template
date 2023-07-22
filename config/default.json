@@ -1,0 +1,6 @@
+{
+    "PORT":8080,
+    "mongoUri":"mongodb+srv://dbUser:Lbvfc666228@cluster0.i354hdn.mongodb.net/",
+    "accessSecret":"qosivmeutyqndhslwkmacjnwucuyqtttx",
+    "refreshSecret":"72085837279481008577694194999147915760"
+}
